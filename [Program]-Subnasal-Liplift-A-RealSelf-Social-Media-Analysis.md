@@ -1,4 +1,4 @@
-Subnasal Lip Lift: A RealSelf Social Media nalysis
+Subnasal Lip Lift: A RealSelf Social Media Analysis
 ================
 Monique Arnold
 Accepted for publication by the American Journal of Cosmetic Surgery
