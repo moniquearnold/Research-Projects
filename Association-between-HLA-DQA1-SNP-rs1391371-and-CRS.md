@@ -1473,7 +1473,7 @@ Geno\_rs1391371AT
     </tbody>
     </table>
 
-![](Association-between-HLA-DQA1-SNP-rs1391371-and-CRS_files/figure-gfm/or_matched_out-1.png)<!-- -->
+![](Figs/or_matched_out-1.png)<!-- -->
 
     ## TableGrob (3 x 4) "arrange": 4 grobs
     ##   z     cells    name                grob
