@@ -2,6 +2,6 @@
 
 Research Projects completed since 2019.
 
-Currently includes:
+Projects currently offline for copyright/non-compete purposes.
 
 For more information, contact me: monique.arnold@pennmedicine.upenn.edu or moniquearnold247@gmail.com
